@@ -1,0 +1,31 @@
+-> echo hello terminal <- returns hello terminal 
+	-> echo I made this boilerplate >> README.md <- to print to a file, rather than to the terminal 
+		-> Text that is added to a file using this command is added to a new line 
+-> pwd <- print working directory 
+-> ls <- prints the names of the files in the current directory 
+-> cd <- to change directory and move into a folder 
+-> in this example, we have a lot of different JavaScript files in a folder 
+-> cd .. <- to go back a folder level
+-> more package.json <- to print the contents of a file (like head but for linux) 
+-> clear <- to clear the contents of the terminal 
+-> ls -l <- to print the contents of a directory in the 'long list' format 
+-> cd ../.. <- to go back two folder levels 
+-> mkdir website <- to make a folder (directory) called 'website' 
+-> touch index.html <- to create a new file 
+-> ls --help <- to show the help menu for the ls command 
+-> they are making us create a `website` directory, and use the `touch` command to create an index.html, styles.css, .gitignore and index.js files
+-> ls --all <- to show all of the files in the directory (including the hidden ones)
+-> boilerplate code is like template code 
+-> cp <file> <destination> <- to copy files into a destination directory 
+-> rm <file> <- to remove (delete) a file 
+	-> rm -r fonts <- to remove a folder which still has things in it (this doesn't get sent to the 'trash')
+-> mv roboto.font roboto.woff <- to rename the first to the second 
+	-> mv header.png ../ <- to move a file back one level in the tree 
+-> find <- to view things or a file tree
+	-> find directory_name <- this highlights the directory in the file tree 
+	-> find -name index.html <- to print the directory of the index.html file 
+-> mkdir client/src <- you're in the current directory, and there is a directory called client 
+	-> This line creates another directory inside that one, called src 
+	-> This is done without having to cd into the client directory 
+-> rmdir images <- to remove one of the folders 
+-> exit <- to exit the terminal 
