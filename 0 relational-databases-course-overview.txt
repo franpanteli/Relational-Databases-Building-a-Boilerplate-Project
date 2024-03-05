@@ -1,5 +1,5 @@
 - Skills gained -> VS Code, PostgreSQL, and the Linux / Unix command line:
-	-> the guided projects increment in increasing levels of complexity as you go along
+	-> The guided projects increment in increasing levels of complexity as you go along
 
 - Format -> 14 "courses" <- they are guided projects
 	- Learn Bash by Building a Boilerplate:
@@ -22,7 +22,7 @@
 		-> creating and using relational databases with PostgreSQL <- database management
 	system
 		-> SQL <- coding language for database management
-		-> version control with Git
+		-> Version control with Git
 
 	- Periodic Table Database
 	- Number Guessing Game
